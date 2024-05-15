@@ -1,0 +1,14 @@
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.AssemblyInfoInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.AssemblyInfo.cs
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.csproj.CoreCompileInputs.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/bin/Debug/net8.0/Ch04Studio
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/bin/Debug/net8.0/Ch04Studio.deps.json
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/bin/Debug/net8.0/Ch04Studio.runtimeconfig.json
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/bin/Debug/net8.0/Ch04Studio.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/bin/Debug/net8.0/Ch04Studio.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/refint/Ch04Studio.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.pdb
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.genruntimeconfig.cache
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/ref/Ch04Studio.dll
