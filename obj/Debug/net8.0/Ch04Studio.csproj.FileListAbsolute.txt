@@ -12,3 +12,4 @@
 /Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.pdb
 /Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.genruntimeconfig.cache
 /Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/ref/Ch04Studio.dll
+/Users/paulfilipkowski/Desktop/LaunchCode/Ch04Studio/obj/Debug/net8.0/Ch04Studio.sourcelink.json
