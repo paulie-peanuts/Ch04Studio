@@ -27,5 +27,29 @@ namespace Ch04Studio
         {
             return Name + Environment.NewLine + Description + Environment.NewLine + Price;
         }
+
+        public override bool Equals(object? toBeCompared)
+        {
+            if (this == toBeCompared)
+            {
+                return true;
+            }
+            if (toBeCompared == null)
+            {
+                return false;
+            }
+            if (GetType() != toBeCompared.GetType())
+            {
+                return false;
+            }
+            // MenuItem otheritem = MenuItem(toBeCompared);
+            return toBeCompared is MenuItem item &&
+                   Name == item.Name;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Name);
+        }
     }
 }
