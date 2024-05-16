@@ -42,9 +42,8 @@ namespace Ch04Studio
             {
                 return false;
             }
-            // MenuItem otheritem = MenuItem(toBeCompared);
-            return toBeCompared is MenuItem item &&
-                   Name == item.Name;
+            MenuItem otherItem = (MenuItem)toBeCompared;
+            return Name == otherItem.Name;
         }
 
         public override int GetHashCode()

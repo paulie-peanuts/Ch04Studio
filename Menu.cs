@@ -8,9 +8,15 @@ namespace Ch04Studio
         public DateTime LastUpdated {get; set; } = System.DateTime.Now;
         public void AddItem(MenuItem newItem)
         {
-            MenuItems.Add(newItem);
-            LastUpdated = DateTime.Now;
-            newItem.DateAdded = DateTime.Now;
+            if (MenuItems.Contains(newItem))
+            {
+                Console.WriteLine("Duplicate item! Can not add!");
+            } 
+            else {
+                MenuItems.Add(newItem);
+                LastUpdated = DateTime.Now;
+                newItem.DateAdded = DateTime.Now;
+            }
         }
         public void RemoveItem(MenuItem item)
         {
