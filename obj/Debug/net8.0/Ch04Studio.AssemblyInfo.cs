@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ch04Studio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9263f355b923963b6aa1d0ec68d248886747f75")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c557abf8776c420a6d0c026aa8d7a00ea02d0c12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ch04Studio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ch04Studio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
